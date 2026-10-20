@@ -40,7 +40,7 @@ mkdir -p ~/.claude/skills
 ```
 
 ```bash
-git clone https://github.com/Bitboybhanu/Ved-animation-style-videos.git ~/.claude/skills/chaaya-video-youtube
+git clone https://github.com/Vedbhanu/Ved-animation-style-videos.git ~/.claude/skills/chaaya-video-youtube
 ```
 
 The folder **must** be named `chaaya-video-youtube`.
