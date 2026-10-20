@@ -1,0 +1,18 @@
+{
+  "layout": "text_right",
+  "font": "hand",
+  "lines": [
+    ["It's not what you said...", "ink"],
+    ["It's HOW you", "ink"],
+    ["SAID IT!", "red"]
+  ],
+  "sub": ["(Emotional Radar)", "red"],
+  "chars": [
+    {"set": "mentor", "pose": "facepalm", "x": 260, "y": 700, "h": 610, "flip": false},
+    {"set": "cast", "pose": "smart", "x": 520, "y": 700, "h": 580, "flip": true}
+  ],
+  "props": [
+    {"kind": "qmark", "x": 260, "y": 250, "s": 1.2, "col": "#2F5FC4"},
+    {"kind": "sparkles", "x": 520, "y": 250, "s": 1.0}
+  ]
+}

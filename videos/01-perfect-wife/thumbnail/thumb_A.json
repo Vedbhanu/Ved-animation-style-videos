@@ -1,0 +1,7 @@
+{"layout": "text_left", "font": "hand",
+ "lines": [["Looking for the", "ink"], ["PERFECT Wife?", "red"]],
+ "sub": ["(She doesn't exist)", "ink"], "top": 190, "max_size": 104,
+ "props": [{"kind": "rays", "x": 960, "y": 300, "r": 560, "alpha": 0.45}],
+ "chars": [{"set": "cast", "pose": "dream_girl", "x": 1120, "y": 640, "h": 560},
+           {"set": "mentor", "pose": "love", "x": 820, "y": 715, "h": 600}],
+ "faces": []}

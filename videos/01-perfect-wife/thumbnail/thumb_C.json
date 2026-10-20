@@ -1,0 +1,6 @@
+{"layout": "text_right", "font": "bold",
+ "lines": [["SHE DOESN'T", "ink"], ["EXIST", "red"]],
+ "sub": ["(The perfect wife myth)", "ink"], "top": 200, "max_size": 140,
+ "chars": [{"set": "mentor", "pose": "shocked", "x": 330, "y": 715, "h": 640}],
+ "faces": [],
+ "props": [{"kind": "qmark", "x": 560, "y": 170, "s": 1.0}]}

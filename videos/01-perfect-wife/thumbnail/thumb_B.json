@@ -1,0 +1,7 @@
+{"layout": "split", "font": "bold", "split_font": "bold",
+ "split": {"left": ["IDEAL", "red"], "right": ["REAL", "green"]},
+ "lines": [["TOO MANY \"ANDs\"", "ink"]], "top": 590, "max_size": 96,
+ "chars": [{"set": "cast", "pose": "dream_girl", "x": 320, "y": 560, "h": 430},
+           {"set": "cast", "pose": "woman_a", "x": 840, "y": 575, "h": 420},
+           {"set": "cast", "pose": "woman_c", "x": 1110, "y": 575, "h": 420}],
+ "props": [{"kind": "x", "x": 470, "y": 200, "s": 1.0}, {"kind": "check", "x": 1210, "y": 200, "s": 0.9}]}

@@ -1,0 +1,14 @@
+# OS / Python junk
+.DS_Store
+__pycache__/
+*.pyc
+
+# Old experiments
+archive/
+
+# Per-video generated output (re-created by the pipeline)
+videos/*/renders/
+videos/*/build/*
+!videos/*/build/lines.json
+!videos/*/build/words.json
+!videos/*/build/voice.json

@@ -1,0 +1,18 @@
+{
+  "layout": "text_left",
+  "font": "bold",
+  "lines": [
+    ["WHY WOMEN", "ink"],
+    ["CANNOT", "red"],
+    ["THINK LIKE MEN", "ink"]
+  ],
+  "sub": ["(Product of Their Genetics)", "red"],
+  "chars": [
+    {"set": "cast", "pose": "smart", "x": 780, "y": 700, "h": 580, "flip": true},
+    {"set": "mentor", "pose": "shocked", "x": 1050, "y": 700, "h": 610, "flip": false}
+  ],
+  "props": [
+    {"kind": "rays", "x": 920, "y": 380, "col": "#FFE680", "alpha": 0.45, "r": 650},
+    {"kind": "qmark", "x": 640, "y": 240, "s": 1.2, "col": "#D0312D"}
+  ]
+}

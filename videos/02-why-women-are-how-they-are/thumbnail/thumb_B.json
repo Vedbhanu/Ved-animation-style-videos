@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "split_font": "bold",
+  "split": {
+    "left": ["KING + PEASANT", "green"],
+    "right": ["QUEEN + FARM BOY", "red"]
+  },
+  "lines": [
+    ["THE ASYMMETRY OF HYPERGAMY", "ink"]
+  ],
+  "font": "bold",
+  "chars": [
+    {"set": "cast", "pose": "chad", "x": 180, "y": 660, "h": 500, "flip": false},
+    {"set": "cast", "pose": "village_girl", "x": 380, "y": 660, "h": 480, "flip": true},
+    {"set": "cast", "pose": "queen", "x": 780, "y": 660, "h": 500, "flip": false},
+    {"set": "cast", "pose": "farm_boy", "x": 980, "y": 660, "h": 480, "flip": true}
+  ],
+  "props": [
+    {"kind": "check", "x": 280, "y": 240, "s": 1.1},
+    {"kind": "x", "x": 880, "y": 240, "s": 1.1}
+  ]
+}
