@@ -1,6 +1,6 @@
 # Ved Animation Style Videos
 
-A [Claude Code](https://claude.com/claude-code) skill that turns a script or topic into a finished **vertical (1080x1920) animated cartoon video** for YouTube Shorts and long-form videos. It's made for psychology, self-improvement and relationship topics in the "Chaaya" style:
+A [Claude Code](https://claude.com/claude-code) skill that turns a script or topic into a finished **vertical (1080x1920) animated cartoon video** for YouTube Shorts and long-form videos. It's made for psychology, self-improvement and relationship topics in the "shiv" style:
 
 - An AI-illustrated sprite cast led by the hero, "The Mentor"
 - Kokoro TTS voiceover (voice `am_puck`), generated locally and for free
